@@ -137,7 +137,7 @@ schedule.every(2).hours.do(run_threaded, like_timeline)
 schedule.every(1).days.at("16:00").do(
     run_threaded, like_followers_from_random_user_file
 )
-schedule.every(1).days.at("9:00").do(run_threaded, follow_followers)
+schedule.every(1).days.at("09:00").do(run_threaded, follow_followers)
 schedule.every(1).days.at("05:34").do(run_threaded, follow_followers)
 schedule.every(16).hours.do(run_threaded, comment_medias)
 schedule.every(1).days.at("08:42").do(run_threaded, unfollow_non_followers)

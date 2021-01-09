@@ -137,7 +137,7 @@ schedule.every(2).hours.do(run_threaded, like_timeline)
 schedule.every(1).days.at("16:00").do(
     run_threaded, like_followers_from_random_user_file
 )
-schedule.every(1).days.at("9:00").do(run_threaded, follow_followers)
+schedule.every(1).days.at("09:00").do(run_threaded, follow_followers)
 schedule.every(1).days.at("05:34").do(run_threaded, follow_followers)
 schedule.every(16).hours.do(run_threaded, comment_medias)
 schedule.every(1).days.at("08:42").do(run_threaded, unfollow_non_followers)
@@ -145,7 +145,7 @@ schedule.every(12).hours.do(run_threaded, follow_users_from_hashtag_file)
 schedule.every(6).hours.do(run_threaded, comment_hashtag)
 schedule.every(1).days.at("21:28").do(run_threaded, upload_pictures)
 schedule.every(1).days.at("07:07").do(run_threaded, upload_pictures)
-schedule.every(1).days.at("14.45").do(run_threaded, upload_pictures)
+schedule.every(1).days.at("14:45").do(run_threaded, upload_pictures)
 schedule.every(4).days.at("07:50").do(run_threaded, put_non_followers_on_blacklist)
 
 while True:

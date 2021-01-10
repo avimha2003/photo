@@ -30,8 +30,7 @@ PICS_HASHTAGS = ("#animals #nature #animal #pets #love #cute #wildlife #pet #cat
 # Each string but the last must end with a space
 # NOTE: Instagram allows only for a maximum of 30 hashtags per post.
 
-FOLLOW_MESSAGE = "Follow @cute_animals_fans_2021 for the best photos! Hashtags : #animals #nature #animal #pets #love #cute #wildlife #pet #cats #dog #animalsofinstagram #animalsco #animalsmood #animalsaddict #animalslover #animalshelter #animalsofig #animalshots #animalstyle #animalsanctuary #animalsinfluence #animalsofinsta #animalstagram #animalslovers #animalsarefriends #animalsphotography"
-"
+FOLLOW_MESSAGE = "Follow @cute_animals_fans_2021 for the best photos!"
 # The string to insert under the random caption. The bot will construct each
 # photo caption like the following ->
 # [random caption taken from PHOTO_CAPTIONS]

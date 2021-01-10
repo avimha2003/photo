@@ -25,9 +25,7 @@ PICS_PATH = "config/pics/"
 # The path of the directory containing the photos the bot will upload
 # NOTE: Being a directory, it must end with '/'
 
-PICS_HASHTAGS = (
-    "#animals #nature #animal #pets #love #cute #wildlife #pet #cats #dog #animalsofinstagram #animalsco #animalsmood #animalsaddict #animalslover #animalshelter #animalsofig #animalshots #animalstyle #animalsanctuary #animalsinfluence #animalsofinsta #animalstagram #animalslovers #animalsarefriends #animalsphotography"
-)
+PICS_HASHTAGS = ("#animals #nature #animal #pets #love #cute #wildlife #pet #cats #dog #animalsofinstagram #animalsco #animalsmood #animalsaddict #animalslover #animalshelter #animalsofig #animalshots #animalstyle #animalsanctuary #animalsinfluence #animalsofinsta #animalstagram #animalslovers #animalsarefriends #animalsphotography ")
 # The bot will comment each photo it posts with the hashtags in PICS_HASHTAGS
 # Each string but the last must end with a space
 # NOTE: Instagram allows only for a maximum of 30 hashtags per post.

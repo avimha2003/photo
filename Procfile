@@ -1,1 +1,1 @@
-worker: python ultimate.py -u cute_animals_fans_2021 -p Avinash@2003
+worker: python ultimate.py -u mother.nature.2021 -p iamavi

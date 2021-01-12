@@ -2,12 +2,8 @@ animals
 nature 
 animal 
 pets 
-love 
-cute 
+love  
 wildlife 
-pet 
-cats 
-dog 
 animalsofinstagram 
 animalsco 
 animalsmood 

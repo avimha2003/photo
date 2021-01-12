@@ -25,12 +25,12 @@ PICS_PATH = "config/pics/"
 # The path of the directory containing the photos the bot will upload
 # NOTE: Being a directory, it must end with '/'
 
-PICS_HASHTAGS = ("#animals #nature #animal #pets #love #cute #wildlife #pet #cats #dog #animalsofinstagram #animalsco #animalsmood #animalsaddict #animalslover #animalshelter #animalsofig #animalshots #animalstyle #animalsanctuary #animalsinfluence #animalsofinsta #animalstagram #animalslovers #animalsarefriends #animalsphotography ")
+PICS_HASHTAGS = ("#animals #nature #animal #pets #love #cute #wildlife #pet #cats #dog #animalsofinstagram #follow #like4like #tagsforlikes #instalike #likeforlike #follow4follow #followforfollow #l4l #f4f ")
 # The bot will comment each photo it posts with the hashtags in PICS_HASHTAGS
 # Each string but the last must end with a space
 # NOTE: Instagram allows only for a maximum of 30 hashtags per post.
 
-FOLLOW_MESSAGE = "Follow @cute_animals_fans_2021 for the best photos! Hashtags - #animals #nature #animal #pets #love #cute #wildlife #pet #cats #dog #animalsofinstagram #animalsco #animalsmood #animalsaddict #animalslover #animalshelter #animalsofig #animalshots #animalstyle #animalsanctuary #animalsinfluence #animalsofinsta #animalstagram #animalslovers #animalsarefriends #animalsphotography #followme"
+FOLLOW_MESSAGE = "Follow @mother.nature.2021 for the best photos! Hashtags - #animals #nature #animal #pets #love #cute #wildlife #pet #cats #dog #follow #like4like #tagsforlikes #instalike #likeforlike #follow4follow #followforfollow #l4l #f4f "
 # The string to insert under the random caption. The bot will construct each
 # photo caption like the following ->
 # [random caption taken from PHOTO_CAPTIONS]

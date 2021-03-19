@@ -38,4 +38,4 @@ schedule==0.6.0
 six==1.15.0
 toml==0.10.2
 tqdm==4.55.1
-urllib3==1.26.2
+urllib3==1.26.3
